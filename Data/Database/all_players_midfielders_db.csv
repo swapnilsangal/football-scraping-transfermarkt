@@ -1,0 +1,501 @@
+,Name,Name_tag,ID,Position
+0,Kevin De Bruyne,kevin-de-bruyne,88755,Attacking Midfield
+1,N'Golo Kanté,ngolo-kante,225083,Central Midfield
+2,Paul Pogba,paul-pogba,122153,Central Midfield
+3,Kai Havertz,kai-havertz,309400,Attacking Midfield
+4,Dele Alli,dele-alli,207929,Attacking Midfield
+5,Saúl Ñíguez,saul-niguez,148928,Central Midfield
+6,Philippe Coutinho,philippe-coutinho,80444,Attacking Midfield
+7,Christian Eriksen,christian-eriksen,69633,Attacking Midfield
+8,Frenkie de Jong,frenkie-de-jong,326330,Central Midfield
+9,Rodri,rodri,357565,Defensive Midfield
+10,Marco Verratti,marco-verratti,102558,Central Midfield
+11,Arthur,arthur,362842,Central Midfield
+12,Sergej Milinkovic-Savic,sergej-milinkovic-savic,266302,Central Midfield
+13,Fabinho,fabinho,225693,Defensive Midfield
+14,Koke,koke,74229,Right Midfield
+15,Thiago,thiago,60444,Central Midfield
+16,Miralem Pjanic,miralem-pjanic,44162,Central Midfield
+17,Tanguy Ndombélé,tanguy-ndombele,450936,Central Midfield
+18,Jorginho,jorginho,102017,Defensive Midfield
+19,Fabián Ruiz,fabian-ruiz,350219,Central Midfield
+20,James Maddison,james-maddison,294057,Attacking Midfield
+21,Bruno Fernandes,bruno-fernandes,240306,Attacking Midfield
+22,Nabil Fekir,nabil-fekir,203496,Attacking Midfield
+23,Marcelo Brozovic,marcelo-brozovic,156617,Defensive Midfield
+24,Isco,isco,85288,Attacking Midfield
+25,Toni Kroos,toni-kroos,31909,Central Midfield
+26,Casemiro,casemiro,16306,Defensive Midfield
+27,Declan Rice,declan-rice,357662,Defensive Midfield
+28,Youri Tielemans,youri-tielemans,249565,Central Midfield
+29,Mattéo Guendouzi,matteo-guendouzi,465830,Central Midfield
+30,Nicolò Zaniolo,nicolo-zaniolo,392085,Attacking Midfield
+31,Carlos Soler,carlos-soler,372246,Right Midfield
+32,Giovani Lo Celso,giovani-lo-celso,348795,Central Midfield
+33,Donny van de Beek,donny-van-de-beek,288255,Attacking Midfield
+34,Thomas,thomas,230784,Defensive Midfield
+35,Rúben Neves,ruben-neves,225161,Defensive Midfield
+36,Leon Goretzka,leon-goretzka,153084,Central Midfield
+37,Allan,allan,126422,Central Midfield
+38,James Rodríguez,james-rodriguez,88103,Attacking Midfield
+39,Sergi Roberto,sergi-roberto,85370,Central Midfield
+40,Sergio Busquets,sergio-busquets,65230,Defensive Midfield
+41,Ilkay Gündogan,ilkay-gundogan,53622,Central Midfield
+42,Georginio Wijnaldum,georginio-wijnaldum,49499,Central Midfield
+43,Marco Reus,marco-reus,35207,Attacking Midfield
+44,Houssem Aouar,houssem-aouar,395693,Central Midfield
+45,Mason Mount,mason-mount,346483,Attacking Midfield
+46,Lucas Torreira,lucas-torreira,318077,Defensive Midfield
+47,Wilfred Ndidi,wilfred-ndidi,274839,Defensive Midfield
+48,Nicolò Barella,nicolo-barella,255942,Central Midfield
+49,Mateo Kovacic,mateo-kovacic,51471,Central Midfield
+50,Naby Keïta,naby-keita,302215,Central Midfield
+51,Rodrigo Bentancur,rodrigo-bentancur,354362,Central Midfield
+52,Dani Ceballos,dani-ceballos,319745,Central Midfield
+53,Lorenzo Pellegrini,lorenzo-pellegrini,286297,Central Midfield
+54,Harry Winks,harry-winks,249126,Central Midfield
+55,Corentin Tolisso,corentin-tolisso,190393,Central Midfield
+56,Piotr Zielinski,piotr-zielinski,181136,Central Midfield
+57,Luis Alberto,luis-alberto,128220,Attacking Midfield
+58,Aaron Ramsey,aaron-ramsey,50057,Central Midfield
+59,Filip Kostic,filip-kostic,161011,Left Midfield
+60,Ryan Sessegnon,ryan-sessegnon,392775,Left Midfield
+61,Jack Grealish,jack-grealish,203460,Attacking Midfield
+62,Tiemoué Bakayoko,tiemoue-bakayoko,182618,Defensive Midfield
+63,Alex Oxlade-Chamberlain,alex-oxlade-chamberlain,143424,Central Midfield
+64,Julian Draxler,julian-draxler,85148,Central Midfield
+65,Jordan Henderson,jordan-henderson,61651,Central Midfield
+66,Paulinho,paulinho,57229,Central Midfield
+67,Ivan Rakitic,ivan-rakitic,32467,Central Midfield
+68,Lucas Paquetá,lucas-paqueta,444523,Attacking Midfield
+69,Adrien Rabiot,adrien-rabiot,182913,Central Midfield
+70,Kerem Demirbay,kerem-demirbay,125858,Central Midfield
+71,Axel Witsel,axel-witsel,35047,Defensive Midfield
+72,Phil Foden,phil-foden,406635,Central Midfield
+73,Sandro Tonali,sandro-tonali,397033,Defensive Midfield
+74,Igor Zubeldia,igor-zubeldia,355628,Defensive Midfield
+75,Marc Roca,marc-roca,336869,Defensive Midfield
+76,Dani Olmo,dani-olmo,293385,Attacking Midfield
+77,Carles Aleñá,carles-alena,284854,Central Midfield
+78,Marcos Llorente,marcos-llorente,282411,Defensive Midfield
+79,David Brooks,david-brooks,277033,Attacking Midfield
+80,Stefano Sensi,stefano-sensi,216179,Central Midfield
+81,Ruben Loftus-Cheek,ruben-loftus-cheek,202886,Central Midfield
+82,Maximilian Eggestein,maximilian-eggestein,190284,Central Midfield
+83,Eric Dier,eric-dier,175722,Defensive Midfield
+84,Danilo Pereira,danilo-pereira,141050,Defensive Midfield
+85,Geoffrey Kondogbia,geoffrey-kondogbia,127189,Central Midfield
+86,Idrissa Gueye,idrissa-gueye,126665,Defensive Midfield
+87,Emre Can,emre-can,119296,Defensive Midfield
+88,Granit Xhaka,granit-xhaka,111455,Defensive Midfield
+89,Oscar,oscar,85314,Attacking Midfield
+90,Dani Parejo,dani-parejo,59561,Central Midfield
+91,Denis Zakaria,denis-zakaria,334526,Defensive Midfield
+92,Scott McTominay,scott-mctominay,315969,Central Midfield
+93,Talisca,talisca,258626,Attacking Midfield
+94,Rafa Silva,rafa-silva,238055,Left Midfield
+95,André Gomes,andre-gomes,221025,Central Midfield
+96,Jean-Philippe Gbamin,jean-philippe-gbamin,182894,Defensive Midfield
+97,Morgan Sanson,morgan-sanson,174094,Central Midfield
+98,Leander Dendoncker,leander-dendoncker,168157,Defensive Midfield
+99,Gylfi Sigurdsson,gylfi-sigurdsson,90466,Attacking Midfield
+100,Jonathan Ikoné,jonathan-ikone,324690,Attacking Midfield
+101,Ross Barkley,ross-barkley,131978,Central Midfield
+102,Thomas Delaney,thomas-delaney,91849,Central Midfield
+103,Javi Martínez,javi-martinez,44017,Defensive Midfield
+104,Nahitan Nández,nahitan-nandez,315063,Central Midfield
+105,Reinier,reinier,627226,Attacking Midfield
+106,Exequiel Palacios,exequiel-palacios,401578,Central Midfield
+107,André Zambo Anguissa,andre-zambo-anguissa,354361,Defensive Midfield
+108,Jeff Reine-Adélaïde,jeff-reine-adelaide,326300,Central Midfield
+109,Gaetano Castrovilli,gaetano-castrovilli,303116,Central Midfield
+110,Franck Kessié,franck-kessie,294808,Central Midfield
+111,Aleksandr Golovin,aleksandr-golovin,263918,Attacking Midfield
+112,Jefferson Lerma,jefferson-lerma,262980,Defensive Midfield
+113,Rodrigo de Paul,rodrigo-de-paul,255901,Attacking Midfield
+114,Bryan Cristante,bryan-cristante,199248,Central Midfield
+115,Julian Weigl,julian-weigl,196792,Defensive Midfield
+116,Stanislav Lobotka,stanislav-lobotka,192735,Defensive Midfield
+117,Raphaël Guerreiro,raphael-guerreiro,170986,Left Midfield
+118,Leandro Paredes,leandro-paredes,166237,Defensive Midfield
+119,Jordan Veretout,jordan-veretout,164771,Central Midfield
+120,Thiago Mendes,thiago-mendes,135617,Defensive Midfield
+121,Abdoulaye Doucouré,abdoulaye-doucoure,127187,Central Midfield
+122,William Carvalho,william-carvalho,100131,Defensive Midfield
+123,Ander Herrera,ander-herrera,99343,Central Midfield
+124,Luka Milivojevic,luka-milivojevic,74300,Defensive Midfield
+125,Sergio Canales,sergio-canales,66106,Attacking Midfield
+126,Pizzi,pizzi,64339,Right Midfield
+127,Asier Illarramendi,asier-illarramendi,59344,Defensive Midfield
+128,Henrikh Mkhitaryan,henrikh-mkhitaryan,55735,Attacking Midfield
+129,Moussa Sissoko,moussa-sissoko,46001,Central Midfield
+130,Arne Maier,arne-maier,296397,Defensive Midfield
+131,Marten de Roon,marten-de-roon,133179,Central Midfield
+132,Dennis Praet,dennis-praet,129588,Central Midfield
+133,Matías Vecino,matias-vecino,143812,Central Midfield
+134,Matheus Henrique,matheus-henrique,552549,Central Midfield
+135,Harvey Barnes,harvey-barnes,398065,Left Midfield
+136,Pablo Fornals,pablo-fornals,357885,Attacking Midfield
+137,Sean Longstaff,sean-longstaff,346707,Central Midfield
+138,Sander Berge,sander-berge,333014,Defensive Midfield
+139,Florian Neuhaus,florian-neuhaus,278332,Central Midfield
+140,Florian Grillitsch,florian-grillitsch,195736,Central Midfield
+141,Fred,fred,191614,Central Midfield
+142,Davy Klaassen,davy-klaassen,182932,Central Midfield
+143,Héctor Herrera,hector-herrera,122043,Central Midfield
+144,Kevin Kampl,kevin-kampl,53418,Central Midfield
+145,Mesut Özil,mesut-ozil,35664,Attacking Midfield
+146,Eduardo Camavinga,eduardo-camavinga,640428,Defensive Midfield
+147,Thiago Almada,thiago-almada,576028,Attacking Midfield
+148,Kang-in Lee,kang-in-lee,557149,Attacking Midfield
+149,Jonathan David,jonathan-david,533738,Attacking Midfield
+150,Bruno Guimarães,bruno-guimaraes,520624,Central Midfield
+151,Douglas Luiz,douglas-luiz,447661,Central Midfield
+152,Amadou Haidara,amadou-haidara,402008,Central Midfield
+153,Federico Valverde,federico-valverde,369081,Central Midfield
+154,Amadou Diawara,amadou-diawara,355501,Defensive Midfield
+155,Lucas Tousart,lucas-tousart,353948,Defensive Midfield
+156,Gedson Fernandes,gedson-fernandes,337800,Right Midfield
+157,Weston McKennie,weston-mckennie,332697,Central Midfield
+158,Martin Ødegaard,martin-odegaard,316264,Attacking Midfield
+159,Nikola Vlasic,nikola-vlasic,293200,Attacking Midfield
+160,Miguel Almirón,miguel-almiron,272999,Attacking Midfield
+161,Lewis Cook,lewis-cook,249089,Central Midfield
+162,Marko Grujic,marko-grujic,222813,Central Midfield
+163,Andreas Pereira,andreas-pereira,203394,Attacking Midfield
+164,John McGinn,john-mcginn,193116,Central Midfield
+165,Remo Freuler,remo-freuler,148252,Central Midfield
+166,Manuel Lanzini,manuel-lanzini,135853,Attacking Midfield
+167,Francis Coquelin,francis-coquelin,74869,Defensive Midfield
+168,Nemanja Matic,nemanja-matic,74683,Defensive Midfield
+169,Radja Nainggolan,radja-nainggolan,41982,Central Midfield
+170,Luka Modric,luka-modric,27992,Central Midfield
+171,Giorgian de Arrascaeta,giorgian-de-arrascaeta,248410,Attacking Midfield
+172,Valentino Lazaro,valentino-lazaro,186368,Right Midfield
+173,Steven Nzonzi,steven-nzonzi,73734,Defensive Midfield
+174,Fran Beltrán,fran-beltran,423444,Central Midfield
+175,Boubakary Soumaré,boubakary-soumare,344605,Defensive Midfield
+176,Joe Willock,joe-willock,340329,Central Midfield
+177,Manuel Lazzari,manuel-lazzari,331401,Right Midfield
+178,Philip Billing,philip-billing,320411,Central Midfield
+179,Tom Davies,tom-davies,314210,Central Midfield
+180,Ainsley Maitland-Niles,ainsley-maitland-niles,285845,Right Midfield
+181,Renato Sanches,renato-sanches,258027,Central Midfield
+182,Wilmar Barrios,wilmar-barrios,257668,Defensive Midfield
+183,Will Hughes,will-hughes,207014,Central Midfield
+184,Wylan Cyprien,wylan-cyprien,182889,Central Midfield
+185,James Ward-Prowse,james-ward-prowse,181579,Central Midfield
+186,Jean Michaël Seri,jean-michael-seri,178614,Central Midfield
+187,João Mário,joao-mario,149729,Central Midfield
+188,Maximilian Arnold,maximilian-arnold,117674,Central Midfield
+189,Jonjo Shelvey,jonjo-shelvey,71292,Central Midfield
+190,Giacomo Bonaventura,giacomo-bonaventura,57280,Central Midfield
+191,Grzegorz Krychowiak,grzegorz-krychowiak,45184,Defensive Midfield
+192,Marek Hamsik,marek-hamsik,38593,Central Midfield
+193,Blaise Matuidi,blaise-matuidi,33923,Central Midfield
+194,Nicolás Domínguez,nicolas-dominguez,497291,Central Midfield
+195,Matías Zaracho,matias-zaracho,480774,Attacking Midfield
+196,Eljif Elmas,eljif-elmas,400489,Central Midfield
+197,Ismaël Bennacer,ismael-bennacer,351816,Defensive Midfield
+198,Diadie Samassékou,diadie-samassekou,315604,Defensive Midfield
+199,Brahim Díaz,brahim-diaz,314678,Attacking Midfield
+200,Ondrej Duda,ondrej-duda,232418,Attacking Midfield
+201,Otávio,otavio,231289,Attacking Midfield
+202,Konrad Laimer,konrad-laimer,223967,Central Midfield
+203,Óliver Torres,oliver-torres,214775,Central Midfield
+204,Alfred Duncan,alfred-duncan,184894,Central Midfield
+205,Diego Demme,diego-demme,82070,Defensive Midfield
+206,Davy Pröpper,davy-propper,79027,Central Midfield
+207,Alex Teixeira,alex-teixeira,66515,Attacking Midfield
+208,Yari Verschaeren,yari-verschaeren,502302,Attacking Midfield
+209,Yusuf Yazici,yusuf-yazici,386726,Attacking Midfield
+210,Amine Harit,amine-harit,372711,Attacking Midfield
+211,Anton Miranchuk,anton-miranchuk,255451,Attacking Midfield
+212,Aleksey Miranchuk,aleksey-miranchuk,255450,Attacking Midfield
+213,Wahbi Khazri,wahbi-khazri,103565,Attacking Midfield
+214,Mohamed Ihattaren,mohamed-ihattaren,503638,Attacking Midfield
+215,Nicolás De La Cruz,nicolas-de-la-cruz,397458,Attacking Midfield
+216,Hamed Junior Traorè,hamed-junior-traore,391065,Attacking Midfield
+217,Ibrahim Sangaré,ibrahim-sangare,375885,Defensive Midfield
+218,Florentino,florentino,357162,Defensive Midfield
+219,Christopher Nkunku,christopher-nkunku,344381,Central Midfield
+220,Mikel Merino,mikel-merino,338424,Central Midfield
+221,Valentin Rongier,valentin-rongier,332889,Central Midfield
+222,Todd Cantwell,todd-cantwell,332341,Left Midfield
+223,Marko Rog,marko-rog,317482,Central Midfield
+224,Rolando Mandragora,rolando-mandragora,308279,Defensive Midfield
+225,Maxime López,maxime-lopez,290862,Central Midfield
+226,Mauro Arambarri,mauro-arambarri,290249,Central Midfield
+227,Nemanja Maksimovic,nemanja-maksimovic,273152,Central Midfield
+228,Abdülkadir Ömür,abdulkadir-omur,271495,Right Midfield
+229,Benjamin Bourigeaud,benjamin-bourigeaud,266359,Central Midfield
+230,Enis Bardhi,enis-bardhi,245014,Central Midfield
+231,Nadiem Amiri,nadiem-amiri,232454,Attacking Midfield
+232,Xaver Schlager,xaver-schlager,223979,Central Midfield
+233,Erick Pulgar,erick-pulgar,215616,Defensive Midfield
+234,Roberto Gagliardini,roberto-gagliardini,197471,Central Midfield
+235,Manu Trigueros,manu-trigueros,188854,Central Midfield
+236,Mario Lemina,mario-lemina,170934,Defensive Midfield
+237,Pierre-Emile Höjbjerg,pierre-emile-hojbjerg,167799,Central Midfield
+238,Hans Vanaken,hans-vanaken,137576,Attacking Midfield
+239,Rafinha,rafinha,129473,Attacking Midfield
+240,Tom Cairney,tom-cairney,123275,Attacking Midfield
+241,José Campaña,jose-campana,120095,Central Midfield
+242,Dudu,dudu,114937,Right Midfield
+243,Charles Aránguiz,charles-aranguiz,89701,Central Midfield
+244,Franco Vázquez,franco-vazquez,76163,Attacking Midfield
+245,Javier Pastore,javier-pastore,55215,Attacking Midfield
+246,Fabian Delph,fabian-delph,50362,Central Midfield
+247,Juan Mata,juan-mata,44068,Attacking Midfield
+248,Jack Cork,jack-cork,40613,Defensive Midfield
+249,Arturo Vidal,arturo-vidal,37666,Central Midfield
+250,David Silva,david-silva,35518,Attacking Midfield
+251,Éver Banega,ever-banega,12249,Central Midfield
+252,Gerson,gerson,341705,Central Midfield
+253,Joan Jordán,joan-jordan,263727,Central Midfield
+254,Karol Linetty,karol-linetty,225873,Central Midfield
+255,Ruslan Malinovskyi,ruslan-malinovskyi,207877,Central Midfield
+256,Mario Pasalic,mario-pasalic,205938,Central Midfield
+257,Marco Benassi,marco-benassi,201040,Central Midfield
+258,Tonny Vilhena,tonny-vilhena,182581,Central Midfield
+259,Roman Zobnin,roman-zobnin,166277,Central Midfield
+260,Sergi Darder,sergi-darder,142021,Central Midfield
+261,Rémy Cabella,remy-cabella,113707,Attacking Midfield
+262,Giuliano,giuliano,54375,Attacking Midfield
+263,Razvan Marin,razvan-marin,295183,Central Midfield
+264,Pablo Rosario,pablo-rosario,370791,Defensive Midfield
+265,Tyler Adams,tyler-adams,332705,Defensive Midfield
+266,Manuel Locatelli,manuel-locatelli,265088,Central Midfield
+267,Suat Serdar,suat-serdar,261905,Central Midfield
+268,Gabriel,gabriel,167291,Central Midfield
+269,Adrien Silva,adrien-silva,56810,Central Midfield
+270,Alexis Mac Allister,alexis-mac-allister,534033,Attacking Midfield
+271,Agustín Almendra,agustin-almendra,491698,Central Midfield
+272,Dominik Szoboszlai,dominik-szoboszlai,451276,Left Midfield
+273,Yves Bissouma,yves-bissouma,410425,Central Midfield
+274,Guus Til,guus-til,372267,Attacking Midfield
+275,Michaël Cuisance,michael-cuisance,344600,Central Midfield
+276,Hannes Wolf,hannes-wolf,321070,Attacking Midfield
+277,Jakub Jankto,jakub-jankto,319160,Central Midfield
+278,Ellyes Skhiri,ellyes-skhiri,290587,Defensive Midfield
+279,Orel Mangala,orel-mangala,289592,Central Midfield
+280,Gastón Pereiro,gaston-pereiro,264116,Attacking Midfield
+281,Seko Fofana,seko-fofana,182893,Central Midfield
+282,Jeffrey Schlupp,jeffrey-schlupp,157506,Left Midfield
+283,Okay Yokuslu,okay-yokuslu,137616,Defensive Midfield
+284,Téji Savanier,teji-savanier,127156,Central Midfield
+285,Aaron Mooy,aaron-mooy,123951,Central Midfield
+286,Edin Visca,edin-visca,109217,Right Midfield
+287,Josuha Guilavogui,josuha-guilavogui,93704,Defensive Midfield
+288,Matt Ritchie,matt-ritchie,92469,Right Midfield
+289,Pascal Groß,pascal-gross,82873,Central Midfield
+290,Victor Wanyama,victor-wanyama,77760,Defensive Midfield
+291,Josef,josef,73741,Defensive Midfield
+292,Adem Ljajic,adem-ljajic,69374,Attacking Midfield
+293,Kevin Strootman,kevin-strootman,68864,Defensive Midfield
+294,Kwadwo Asamoah,kwadwo-asamoah,63531,Left Midfield
+295,Morgan Schneiderlin,morgan-schneiderlin,56818,Defensive Midfield
+296,Renato Augusto,renato-augusto,53058,Central Midfield
+297,Adam Lallana,adam-lallana,43530,Attacking Midfield
+298,Cesc Fàbregas,cesc-fabregas,8806,Central Midfield
+299,James Milner,james-milner,3333,Central Midfield
+300,Albert Sambi Lokonga,albert-sambi-lokonga,381967,Defensive Midfield
+301,Kalvin Phillips,kalvin-phillips,351749,Defensive Midfield
+302,Daler Kuzyaev,daler-kuzyaev,279570,Central Midfield
+303,Mijat Gacinovic,mijat-gacinovic,215864,Attacking Midfield
+304,Soualiho Meïté,soualiho-meite,164913,Central Midfield
+305,Jeff Hendrick,jeff-hendrick,148262,Central Midfield
+306,Roberto Pereyra,roberto-pereyra,112302,Attacking Midfield
+307,Fernando,fernando,105456,Defensive Midfield
+308,Matías Palacios,matias-palacios,621370,Attacking Midfield
+309,Cristian Ferreira,cristian-ferreira,548468,Central Midfield
+310,Wendel,wendel,499721,Central Midfield
+311,Fausto Vera,fausto-vera,491701,Defensive Midfield
+312,Santiago Cáseres,santiago-caseres,466298,Defensive Midfield
+313,Santiago Ascacíbar,santiago-ascacibar,423436,Central Midfield
+314,Jean Pyerre,jean-pyerre,351903,Attacking Midfield
+315,Guido Rodríguez,guido-rodriguez,342385,Defensive Midfield
+316,Hamza Choudhury,hamza-choudhury,341501,Defensive Midfield
+317,Franco Cervi,franco-cervi,341110,Left Midfield
+318,Pierre Kunde Malong,pierre-kunde-malong,339829,Central Midfield
+319,Riqui Puig,riqui-puig,331511,Central Midfield
+320,Jota,jota,329812,Right Midfield
+321,Marvelous Nakamba,marvelous-nakamba,324882,Defensive Midfield
+322,Xeka,xeka,290256,Central Midfield
+323,Sofyan Amrabat,sofyan-amrabat,287579,Central Midfield
+324,Óscar Rodríguez,oscar-rodriguez,284884,Attacking Midfield
+325,Tomas Soucek,tomas-soucek,283628,Defensive Midfield
+326,Maximiliano Meza,maximiliano-meza,282476,Attacking Midfield
+327,Kenedy,kenedy,281404,Left Midfield
+328,Antonin Barak,antonin-barak,272261,Central Midfield
+329,Rubén Alcaraz,ruben-alcaraz,247250,Central Midfield
+330,Nabil Bentaleb,nabil-bentaleb,245537,Central Midfield
+331,Rodolfo Pizarro,rodolfo-pizarro,234918,Attacking Midfield
+332,Diego Laxalt,diego-laxalt,230552,Left Midfield
+333,Mateus Uribe,mateus-uribe,214538,Central Midfield
+334,Isaac Hayden,isaac-hayden,206225,Defensive Midfield
+335,Mahmoud Dahoud,mahmoud-dahoud,191422,Central Midfield
+336,Bobby Reid,bobby-reid,186186,Attacking Midfield
+337,Abdoulaye Touré,abdoulaye-toure,181382,Defensive Midfield
+338,Janik Haberer,janik-haberer,177779,Central Midfield
+339,Stefano Sturaro,stefano-sturaro,167859,Central Midfield
+340,Yuri Gazinskiy,yuri-gazinskiy,159957,Central Midfield
+341,Konstantinos Fortounis,konstantinos-fortounis,157539,Attacking Midfield
+342,Max Meyer,max-meyer,146164,Attacking Midfield
+343,Rani Khedira,rani-khedira,124410,Defensive Midfield
+344,Juan Fernando Quintero,juan-fernando-quintero,122582,Attacking Midfield
+345,Yannick Gerhardt,yannick-gerhardt,119277,Central Midfield
+346,Benjamin André,benjamin-andre,84301,Central Midfield
+347,Christoph Kramer,christoph-kramer,82097,Defensive Midfield
+348,Cheikhou Kouyaté,cheikhou-kouyate,66934,Defensive Midfield
+349,Oriol Romeu,oriol-romeu,66100,Defensive Midfield
+350,Marc Albrighton,marc-albrighton,61560,Right Midfield
+351,Yann M'Vila,yann-mvila,60573,Defensive Midfield
+352,Taras Stepanenko,taras-stepanenko,59970,Defensive Midfield
+353,João Moutinho,joao-moutinho,29364,Central Midfield
+354,Fernandinho,fernandinho,26267,Defensive Midfield
+355,Daniele Baselli,daniele-baselli,134883,Central Midfield
+356,Marouane Fellaini,marouane-fellaini,39679,Central Midfield
+357,Giorgi Chakvetadze,giorgi-chakvetadze,412616,Attacking Midfield
+358,Daichi Kamada,daichi-kamada,356141,Attacking Midfield
+359,Florent Mollet,florent-mollet,222859,Attacking Midfield
+360,Djibril Sow,djibril-sow,212723,Central Midfield
+361,Alex Pritchard,alex-pritchard,200777,Attacking Midfield
+362,Andreas Samaris,andreas-samaris,140032,Defensive Midfield
+363,Sérgio Oliveira,sergio-oliveira,112465,Central Midfield
+364,Vicente Iborra,vicente-iborra,65467,Central Midfield
+365,Lars Bender,lars-bender,30059,Defensive Midfield
+366,Jonas Hofmann,jonas-hofmann,7161,Central Midfield
+367,Dennis Geiger,dennis-geiger,251309,Central Midfield
+368,Badou Ndiaye,badou-ndiaye,211325,Central Midfield
+369,Dominik Kohr,dominik-kohr,118847,Central Midfield
+370,Mady Camara,mady-camara,481173,Defensive Midfield
+371,Lucas Robertone,lucas-robertone,457221,Central Midfield
+372,Morgan Gibbs-White,morgan-gibbs-white,429014,Central Midfield
+373,Maycon,maycon,421935,Central Midfield
+374,Oliver Skipp,oliver-skipp,406638,Defensive Midfield
+375,Pierre Lees Melou,pierre-lees-melou,377393,Central Midfield
+376,Ilzat Akhmetov,ilzat-akhmetov,334440,Central Midfield
+377,Gustavo Scarpa,gustavo-scarpa,330085,Attacking Midfield
+378,Baptiste Santamaría,baptiste-santamaria,285323,Defensive Midfield
+379,Elvis Rexhbecaj,elvis-rexhbecaj,280575,Central Midfield
+380,Danilo,danilo,273438,Defensive Midfield
+381,Dmitri Barinov,dmitri-barinov,263905,Defensive Midfield
+382,Rade Krunic,rade-krunic,259953,Central Midfield
+383,João Carvalho,joao-carvalho,258005,Attacking Midfield
+384,Edimilson Fernandes,edimilson-fernandes,247555,Central Midfield
+385,Bradley Dack,bradley-dack,238556,Attacking Midfield
+386,Adrien Thomasson,adrien-thomasson,215977,Attacking Midfield
+387,Solly March,solly-march,209212,Left Midfield
+388,Andrija Zivkovic,andrija-zivkovic,206843,Right Midfield
+389,Alejandro Pozuelo,alejandro-pozuelo,188853,Attacking Midfield
+390,Adrien Tamèze,adrien-tameze,157507,Defensive Midfield
+391,Omar Mascarell,omar-mascarell,142031,Defensive Midfield
+392,Stuart Armstrong,stuart-armstrong,130765,Central Midfield
+393,Gastón Ramírez,gaston-ramirez,123742,Attacking Midfield
+394,Rodrigo Battaglia,rodrigo-battaglia,89297,Central Midfield
+395,Jack Wilshere,jack-wilshere,74223,Central Midfield
+396,Alan Dzagoev,alan-dzagoev,69683,Central Midfield
+397,Roberto Soriano,roberto-soriano,63186,Central Midfield
+398,Éverton Ribeiro,everton-ribeiro,52896,Attacking Midfield
+399,Joe Allen,joe-allen,51452,Central Midfield
+400,Ignacio Fernández,ignacio-fernandez,50669,Central Midfield
+401,Ljubomir Fejsa,ljubomir-fejsa,46110,Defensive Midfield
+402,Mousa Dembélé,mousa-dembele,19368,Central Midfield
+403,Santiago Sosa,santiago-sosa,576026,Defensive Midfield
+404,Emanuel Reynoso,emanuel-reynoso,439626,Attacking Midfield
+405,Ivan Oblyakov,ivan-oblyakov,419845,Central Midfield
+406,Mathieu Cafaro,mathieu-cafaro,399383,Attacking Midfield
+407,Teun Koopmeiners,teun-koopmeiners,360518,Defensive Midfield
+408,Roberto Alvarado,roberto-alvarado,353583,Attacking Midfield
+409,Víctor Guzmán,victor-guzman,325598,Attacking Midfield
+410,Rubén Pérez,ruben-perez,113045,Defensive Midfield
+411,Guido Pizarro,guido-pizarro,105899,Defensive Midfield
+412,Aleksandr Erokhin,aleksandr-erokhin,84483,Attacking Midfield
+413,Clément Grenier,clement-grenier,72479,Central Midfield
+414,Conor Hourihane,conor-hourihane,61653,Central Midfield
+415,Mikel San José,mikel-san-jose,52469,Defensive Midfield
+416,Lucas Leiva,lucas-leiva,41414,Defensive Midfield
+417,Raúl García,raul-garcia,34601,Attacking Midfield
+418,Luiz Gustavo,luiz-gustavo,10471,Defensive Midfield
+419,Orkun Kökcü,orkun-kokcu,454567,Attacking Midfield
+420,Ronaldo Vieira,ronaldo-vieira,434676,Central Midfield
+421,Matías Rojas,matias-rojas,417327,Attacking Midfield
+422,Aurélien Tchouaméni,aurelien-tchouameni,413112,Defensive Midfield
+423,Alexis Saelemaekers,alexis-saelemaekers,381950,Right Midfield
+424,Arnór Sigurdsson,arnor-sigurdsson,377665,Attacking Midfield
+425,Bryan Heynen,bryan-heynen,356081,Central Midfield
+426,Pape Cheikh,pape-cheikh,336828,Central Midfield
+427,Otávio,otavio,312314,Defensive Midfield
+428,Ludovic Blas,ludovic-blas,288225,Central Midfield
+429,Youssef Aït Bennasser,youssef-ait-bennasser,265569,Central Midfield
+430,Eduard Löwen,eduard-lowen,260655,Central Midfield
+431,Adam Marusic,adam-marusic,239802,Right Midfield
+432,Daniel Amartey,daniel-amartey,214056,Defensive Midfield
+433,Ibrahim Amadou,ibrahim-amadou,205503,Defensive Midfield
+434,Roque Mesa,roque-mesa,202984,Central Midfield
+435,Alberto Grassi,alberto-grassi,197473,Central Midfield
+436,Jean-Eudes Aholou,jean-eudes-aholou,178313,Defensive Midfield
+437,Marco van Ginkel,marco-van-ginkel,147034,Central Midfield
+438,George Saville,george-saville,141573,Central Midfield
+439,Nampalys Mendy,nampalys-mendy,111051,Defensive Midfield
+440,Pedro Obiang,pedro-obiang,101213,Central Midfield
+441,Leonardo Bittencourt,leonardo-bittencourt,93844,Attacking Midfield
+442,Ashley Westwood,ashley-westwood,91317,Defensive Midfield
+443,Tomás Rincón,tomas-rincon,75942,Defensive Midfield
+444,Steven Zuber,steven-zuber,68033,Left Midfield
+445,Jake Livermore,jake-livermore,61832,Defensive Midfield
+446,Tobias Strobl,tobias-strobl,57845,Defensive Midfield
+447,Harry Arter,harry-arter,55742,Central Midfield
+448,Sami Khedira,sami-khedira,29401,Central Midfield
+449,Antonio Candreva,antonio-candreva,25488,Right Midfield
+450,Ibrahima Sissoko,ibrahima-sissoko,372712,Defensive Midfield
+451,Érick Gutiérrez,erick-gutierrez,298796,Central Midfield
+452,Amer Gojak,amer-gojak,293210,Attacking Midfield
+453,Dorukhan Toköz,dorukhan-tokoz,275935,Central Midfield
+454,Iván Marcone,ivan-marcone,90451,Defensive Midfield
+455,Nemanja Gudelj,nemanja-gudelj,74294,Defensive Midfield
+456,Étienne Capoue,etienne-capoue,63494,Defensive Midfield
+457,Sebastian Rudy,sebastian-rudy,57051,Defensive Midfield
+458,Daniel Caligiuri,daniel-caligiuri,38410,Right Midfield
+459,Mohamed Elneny,mohamed-elneny,160438,Defensive Midfield
+460,Marcos Antônio,marcos-antonio,468301,Central Midfield
+461,Elisha Owusu,elisha-owusu,395695,Defensive Midfield
+462,Michel Vlap,michel-vlap,342702,Attacking Midfield
+463,Alex Kral,alex-kral,337333,Defensive Midfield
+464,Walace,walace,323954,Defensive Midfield
+465,Jean-Victor Makengo,jean-victor-makengo,322305,Central Midfield
+466,Luciano Acosta,luciano-acosta,315169,Attacking Midfield
+467,Mohamed Fares,mohamed-fares,287700,Left Midfield
+468,Krystian Bielik,krystian-bielik,287247,Defensive Midfield
+469,Ianis Hagi,ianis-hagi,282076,Attacking Midfield
+470,Ivan Sunjic,ivan-sunjic,226097,Defensive Midfield
+471,Patrik Hrosovsky,patrik-hrosovsky,217879,Central Midfield
+472,Irfan Can Kahveci,irfan-can-kahveci,216603,Central Midfield
+473,Igor Coronado,igor-coronado,215915,Attacking Midfield
+474,Jorrit Hendrix,jorrit-hendrix,205004,Defensive Midfield
+475,Viktor Kovalenko,viktor-kovalenko,203842,Attacking Midfield
+476,Jean-Paul Boëtius,jean-paul-boetius,182574,Attacking Midfield
+477,John Lundstram,john-lundstram,156941,Central Midfield
+478,Jonathan Viera,jonathan-viera,153238,Attacking Midfield
+479,Nathaniel Chalobah,nathaniel-chalobah,128900,Defensive Midfield
+480,Robbie Brady,robbie-brady,128229,Left Midfield
+481,Sofiane Hanni,sofiane-hanni,113358,Attacking Midfield
+482,Lucas Castro,lucas-castro,105892,Central Midfield
+483,Ryad Boudebouz,ryad-boudebouz,77826,Attacking Midfield
+484,Danny Drinkwater,danny-drinkwater,73491,Central Midfield
+485,Tom Cleverley,tom-cleverley,73484,Central Midfield
+486,Arijan Ademi,arijan-ademi,71542,Defensive Midfield
+487,Borja García,borja-garcia,67808,Attacking Midfield
+488,Leroy Fer,leroy-fer,63342,Central Midfield
+489,Oleg Shatov,oleg-shatov,59187,Left Midfield
+490,John Fleck,john-fleck,54383,Central Midfield
+491,Ramires,ramires,54170,Central Midfield
+492,Dale Stephens,dale-stephens,49755,Central Midfield
+493,Ruud Vormer,ruud-vormer,45864,Central Midfield
+494,James McArthur,james-mcarthur,41416,Central Midfield
+495,Marko Marin,marko-marin,35251,Attacking Midfield
+496,Mark Noble,mark-noble,31835,Central Midfield
+497,Hatem Ben Arfa,hatem-ben-arfa,18900,Attacking Midfield
+498,Enzo Loiodice,enzo-loiodice,581781,Central Midfield
+499,Yacine Adli,yacine-adli,395236,Attacking Midfield

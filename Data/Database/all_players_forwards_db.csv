@@ -1,0 +1,501 @@
+,Name,Name_tag,ID,Position
+0,Kylian Mbappé,kylian-mbappe,342229,Centre-Forward
+1,Neymar,neymar,68290,Left Winger
+2,Raheem Sterling,raheem-sterling,134425,Left Winger
+3,Sadio Mané,sadio-mane,200512,Left Winger
+4,Mohamed Salah,mohamed-salah,148455,Right Winger
+5,Harry Kane,harry-kane,132098,Centre-Forward
+6,Eden Hazard,eden-hazard,50202,Left Winger
+7,Lionel Messi,lionel-messi,28003,Right Winger
+8,Antoine Griezmann,antoine-griezmann,125781,Centre-Forward
+9,João Félix,joao-felix,462250,Second Striker
+10,Jadon Sancho,jadon-sancho,401173,Right Winger
+11,Ousmane Dembélé,ousmane-dembele,288230,Left Winger
+12,Bernardo Silva,bernardo-silva,241641,Right Winger
+13,Leroy Sané,leroy-sane,192565,Left Winger
+14,Roberto Firmino,roberto-firmino,131789,Centre-Forward
+15,Paulo Dybala,paulo-dybala,206050,Second Striker
+16,Lautaro Martínez,lautaro-martinez,406625,Centre-Forward
+17,Marcus Rashford,marcus-rashford,258923,Centre-Forward
+18,Heung-min Son,heung-min-son,91845,Left Winger
+19,Romelu Lukaku,romelu-lukaku,96341,Centre-Forward
+20,Mauro Icardi,mauro-icardi,68863,Centre-Forward
+21,Cristiano Ronaldo,cristiano-ronaldo,8198,Left Winger
+22,Vinícius Júnior,vinicius-junior,371998,Left Winger
+23,Gabriel Jesus,gabriel-jesus,363205,Centre-Forward
+24,Alexandre Lacazette,alexandre-lacazette,93720,Centre-Forward
+25,Pierre-Emerick Aubameyang,pierre-emerick-aubameyang,58864,Centre-Forward
+26,Nicolas Pépé,nicolas-pepe,343052,Right Winger
+27,Timo Werner,timo-werner,170527,Centre-Forward
+28,Robert Lewandowski,robert-lewandowski,38253,Centre-Forward
+29,Sergio Agüero,sergio-aguero,26399,Centre-Forward
+30,Richarlison,richarlison,378710,Left Winger
+31,Mikel Oyarzabal,mikel-oyarzabal,351478,Left Winger
+32,Federico Chiesa,federico-chiesa,341092,Right Winger
+33,Christian Pulisic,christian-pulisic,315779,Right Winger
+34,Marco Asensio,marco-asensio,296622,Left Winger
+35,Luka Jovic,luka-jovic,257462,Centre-Forward
+36,Kingsley Coman,kingsley-coman,243714,Left Winger
+37,Anthony Martial,anthony-martial,182877,Left Winger
+38,Riyad Mahrez,riyad-mahrez,171424,Right Winger
+39,Serge Gnabry,serge-gnabry,159471,Right Winger
+40,Lorenzo Insigne,lorenzo-insigne,133964,Left Winger
+41,Gareth Bale,gareth-bale,39381,Right Winger
+42,Wilfried Zaha,wilfried-zaha,145988,Right Winger
+43,Tammy Abraham,tammy-abraham,331726,Centre-Forward
+44,Iñaki Williams,inaki-williams,255508,Centre-Forward
+45,Julian Brandt,julian-brandt,187492,Left Winger
+46,Rodrigo,rodrigo,131505,Centre-Forward
+47,Álvaro Morata,alvaro-morata,128223,Centre-Forward
+48,Paco Alcácer,paco-alcacer,126716,Centre-Forward
+49,Luis Suárez,luis-suarez,44352,Centre-Forward
+50,David Neres,david-neres,469822,Right Winger
+51,Florian Thauvin,florian-thauvin,184892,Right Winger
+52,Sébastien Haller,sebastien-haller,181375,Centre-Forward
+53,Memphis Depay,memphis-depay,167850,Left Winger
+54,Felipe Anderson,felipe-anderson,159372,Left Winger
+55,Ciro Immobile,ciro-immobile,105521,Centre-Forward
+56,Duván Zapata,duvan-zapata,73794,Centre-Forward
+57,Raúl Jiménez,raul-jimenez,206040,Centre-Forward
+58,Rodrygo,rodrygo,412363,Right Winger
+59,Maxi Gómez,maxi-gomez,396894,Centre-Forward
+60,Leon Bailey,leon-bailey,387626,Left Winger
+61,Malcom,malcom,323704,Right Winger
+62,Hirving Lozano,hirving-lozano,316889,Left Winger
+63,Gonçalo Guedes,goncalo-guedes,225122,Left Winger
+64,Hakim Ziyech,hakim-ziyech,217111,Right Winger
+65,Thomas Lemar,thomas-lemar,205562,Left Winger
+66,Federico Bernardeschi,federico-bernardeschi,197300,Right Winger
+67,Arkadiusz Milik,arkadiusz-milik,191891,Centre-Forward
+68,Andrea Belotti,andrea-belotti,167727,Centre-Forward
+69,Wissam Ben Yedder,wissam-ben-yedder,146854,Centre-Forward
+70,Lucas Moura,lucas-moura,77100,Right Winger
+71,Pablo Sarabia,pablo-sarabia,74230,Right Winger
+72,Edinson Cavani,edinson-cavani,48280,Centre-Forward
+73,Ángel Di María,angel-di-maria,45320,Right Winger
+74,Karim Benzema,karim-benzema,18922,Centre-Forward
+75,Joaquín Correa,joaquin-correa,227081,Second Striker
+76,Thorgan Hazard,thorgan-hazard,102226,Left Winger
+77,Douglas Costa,douglas-costa,75615,Right Winger
+78,Andrej Kramaric,andrej-kramaric,46580,Centre-Forward
+79,Callum Hudson-Odoi,callum-hudson-odoi,392768,Left Winger
+80,Cengiz Ünder,cengiz-under,341647,Right Winger
+81,Diogo Jota,diogo-jota,340950,Left Winger
+82,Éverton,everton,321239,Left Winger
+83,Steven Bergwijn,steven-bergwijn,284165,Left Winger
+84,Ángel Correa,angel-correa,266807,Right Winger
+85,Yussuf Poulsen,yussuf-poulsen,157635,Centre-Forward
+86,Kevin Volland,kevin-volland,82009,Centre-Forward
+87,Thomas Müller,thomas-muller,58358,Second Striker
+88,Moise Kean,moise-kean,364135,Centre-Forward
+89,Krzysztof Piatek,krzysztof-piatek,327757,Centre-Forward
+90,Alex Iwobi,alex-iwobi,242631,Left Winger
+91,Jesse Lingard,jesse-lingard,141660,Right Winger
+92,Willian,willian,52769,Right Winger
+93,Marko Arnautovic,marko-arnautovic,41384,Centre-Forward
+94,Gonzalo Higuaín,gonzalo-higuain,39153,Centre-Forward
+95,Erling Haaland,erling-haaland,418560,Centre-Forward
+96,Samu Chukwueze,samu-chukwueze,401922,Right Winger
+97,Wesley,wesley,381362,Centre-Forward
+98,Joelinton,joelinton,333241,Centre-Forward
+99,Moussa Marega,moussa-marega,283130,Second Striker
+100,Santi Mina,santi-mina,255653,Centre-Forward
+101,Ayoze Pérez,ayoze-perez,246968,Second Striker
+102,Moussa Dembélé,moussa-dembele,229004,Centre-Forward
+103,Ante Rebic,ante-rebic,187587,Second Striker
+104,Alassane Plea,alassane-plea,167329,Centre-Forward
+105,Ryan Fraser,ryan-fraser,146795,Left Winger
+106,Callum Wilson,callum-wilson,123682,Centre-Forward
+107,Willian José,willian-jose,122155,Centre-Forward
+108,Suso,suso,111961,Right Winger
+109,Marcel Sabitzer,marcel-sabitzer,106987,Right Winger
+110,Daniel James,daniel-james,319301,Left Winger
+111,Borja Iglesias,borja-iglesias,278359,Centre-Forward
+112,Gelson Martins,gelson-martins,257448,Right Winger
+113,Adama Traoré,adama-traore,204103,Right Winger
+114,Matteo Politano,matteo-politano,165895,Right Winger
+115,Yannick Carrasco,yannick-carrasco,140776,Left Winger
+116,Ismaïla Sarr,ismaila-sarr,410225,Right Winger
+117,Ansu Fati,ansu-fati,466810,Left Winger
+118,Dejan Kulusevski,dejan-kulusevski,431755,Right Winger
+119,Justin Kluivert,justin-kluivert,330659,Left Winger
+120,Harry Wilson,harry-wilson,279455,Right Winger
+121,Allan Saint-Maximin,allan-saint-maximin,272642,Left Winger
+122,Keita Baldé,keita-balde,238752,Left Winger
+123,Wout Weghorst,wout-weghorst,228645,Centre-Forward
+124,Lucas Vázquez,lucas-vazquez,221316,Right Winger
+125,Shoya Nakajima,shoya-nakajima,188911,Left Winger
+126,Rony Lopes,rony-lopes,174694,Right Winger
+127,Gerard Deulofeu,gerard-deulofeu,129476,Right Winger
+128,Emil Forsberg,emil-forsberg,111078,Left Winger
+129,Stephan El Shaarawy,stephan-el-shaarawy,94529,Left Winger
+130,Iago Aspas,iago-aspas,72047,Centre-Forward
+131,Dries Mertens,dries-mertens,56416,Centre-Forward
+132,Aleksandar Mitrovic,aleksandar-mitrovic,51152,Centre-Forward
+133,Diego Costa,diego-costa,44779,Centre-Forward
+134,Alexis Sánchez,alexis-sanchez,40433,Left Winger
+135,Dusan Tadic,dusan-tadic,36139,Left Winger
+136,Domenico Berardi,domenico-berardi,177843,Right Winger
+137,Ivan Perisic,ivan-perisic,42460,Left Winger
+138,Gabriel Barbosa,gabriel-barbosa,244275,Centre-Forward
+139,Jean-Philippe Mateta,jean-philippe-mateta,420002,Centre-Forward
+140,Rafael Leão,rafael-leao,357164,Centre-Forward
+141,Christian Kouamé,christian-kouame,337725,Centre-Forward
+142,Dominic Calvert-Lewin,dominic-calvert-lewin,306024,Centre-Forward
+143,Neal Maupay,neal-maupay,217115,Centre-Forward
+144,André Silva,andre-silva,198008,Centre-Forward
+145,Michy Batshuayi,michy-batshuayi,179184,Centre-Forward
+146,Jesús Corona,jesus-corona,125165,Right Winger
+147,Erik Lamela,erik-lamela,111630,Right Winger
+148,Xherdan Shaqiri,xherdan-shaqiri,86792,Right Winger
+149,Mario Götze,mario-gotze,74842,Centre-Forward
+150,Yacine Brahimi,yacine-brahimi,60517,Left Winger
+151,João Pedro,joao-pedro,626724,Centre-Forward
+152,Antony,antony,602105,Right Winger
+153,Dwight McNeil,dwight-mcneil,584769,Left Winger
+154,Mason Greenwood,mason-greenwood,532826,Centre-Forward
+155,Ademola Lookman,ademola-lookman,406040,Left Winger
+156,Ferran Torres,ferran-torres,398184,Right Winger
+157,Riccardo Orsolini,riccardo-orsolini,368482,Right Winger
+158,Brais Méndez,brais-mendez,309110,Right Winger
+159,Jonathan Bamba,jonathan-bamba,292818,Left Winger
+160,Milot Rashica,milot-rashica,291739,Left Winger
+161,Patrick Cutrone,patrick-cutrone,265078,Centre-Forward
+162,Viktor Tsyhankov,viktor-tsyhankov,264372,Right Winger
+163,Mariano Díaz,mariano-diaz,225020,Centre-Forward
+164,Jamie Vardy,jamie-vardy,197838,Centre-Forward
+165,Luca Waldschmidt,luca-waldschmidt,196095,Centre-Forward
+166,Bernard,bernard,175169,Left Winger
+167,Divock Origi,divock-origi,148368,Centre-Forward
+168,Simone Verdi,simone-verdi,130360,Right Winger
+169,Nathan Redmond,nathan-redmond,129078,Left Winger
+170,Joshua King,joshua-king,91059,Second Striker
+171,Luis Muriel,luis-muriel,119228,Centre-Forward
+172,Gabriel Martinelli,gabriel-martinelli,655488,Centre-Forward
+173,Donyell Malen,donyell-malen,326029,Centre-Forward
+174,Emiliano Buendía,emiliano-buendia,321247,Right Winger
+175,Dodi Lukebakio,dodi-lukebakio,303259,Right Winger
+176,Demarai Gray,demarai-gray,292417,Left Winger
+177,Kasper Dolberg,kasper-dolberg,283196,Centre-Forward
+178,Andrea Petagna,andrea-petagna,199258,Centre-Forward
+179,Quincy Promes,quincy-promes,182381,Left Winger
+180,Raúl de Tomás,raul-de-tomas,162038,Second Striker
+181,Danny Ings,danny-ings,134294,Centre-Forward
+182,Hakan Calhanoglu,hakan-calhanoglu,126414,Left Winger
+183,Viktor Claesson,viktor-claesson,116598,Left Winger
+184,Haris Seferovic,haris-seferovic,109256,Centre-Forward
+185,Chris Wood,chris-wood,108725,Centre-Forward
+186,Juan Cuadrado,juan-cuadrado,91970,Right Winger
+187,Vitolo,vitolo,67082,Left Winger
+188,José Callejón,jose-callejon,61253,Right Winger
+189,Karl Toko Ekambi,karl-toko-ekambi,315110,Centre-Forward
+190,Gerard Moreno,gerard-moreno,177467,Centre-Forward
+191,Josef Martínez,josef-martinez,162569,Centre-Forward
+192,Krépin Diatta,krepin-diatta,490426,Left Winger
+193,Giovanni Simeone,giovanni-simeone,282388,Centre-Forward
+194,Lucas Alario,lucas-alario,193782,Centre-Forward
+195,Sardar Azmoun,sardar-azmoun,180337,Centre-Forward
+196,Pedro,pedro,65278,Right Winger
+197,Sebastián Driussi,sebastian-driussi,294853,Left Winger
+198,Fedor Chalov,fedor-chalov,287183,Centre-Forward
+199,Jean-Kévin Augustin,jean-kevin-augustin,264956,Centre-Forward
+200,Leandro Trossard,leandro-trossard,144028,Left Winger
+201,Artem Dzyuba,artem-dzyuba,48067,Centre-Forward
+202,Papu Gómez,papu-gomez,20005,Second Striker
+203,Carlos Vinícius,carlos-vinicius,525287,Centre-Forward
+204,Matheus Cunha,matheus-cunha,517894,Centre-Forward
+205,Pedrinho,pedrinho,515208,Right Winger
+206,Martin Terrier,martin-terrier,442891,Left Winger
+207,Pedro,pedro,432895,Centre-Forward
+208,Paulinho,paulinho,428791,Left Winger
+209,Alphonso Davies,alphonso-davies,424204,Left Winger
+210,Moussa Diaby,moussa-diaby,395516,Left Winger
+211,Tetê,tete,371256,Right Winger
+212,François Kamano,francois-kamano,333802,Left Winger
+213,Andrea Pinamonti,andrea-pinamonti,315865,Centre-Forward
+214,Jacob Bruun Larsen,jacob-bruun-larsen,293281,Left Winger
+215,Josip Brekalo,josip-brekalo,293169,Left Winger
+216,Gonzalo Martínez,gonzalo-martinez,281405,Left Winger
+217,Dominic Solanke,dominic-solanke,258889,Centre-Forward
+218,Patrik Schick,patrik-schick,242086,Centre-Forward
+219,Maxwel Cornet,maxwel-cornet,234781,Right Winger
+220,Lucas Ocampos,lucas-ocampos,189441,Left Winger
+221,Mohamed Elyounoussi,mohamed-elyounoussi,186644,Left Winger
+222,Davie Selke,davie-selke,178459,Centre-Forward
+223,Adnan Januzaj,adnan-januzaj,177847,Right Winger
+224,Roberto Inglese,roberto-inglese,159337,Centre-Forward
+225,Munas Dabbur,munas-dabbur,145866,Centre-Forward
+226,Maximilian Philipp,maximilian-philipp,143891,Second Striker
+227,Bertrand Traoré,bertrand-traore,131996,Right Winger
+228,João Pedro,joao-pedro,129129,Second Striker
+229,Cédric Bakambu,cedric-bakambu,127048,Centre-Forward
+230,Ishak Belfodil,ishak-belfodil,111039,Centre-Forward
+231,Darío Benedetto,dario-benedetto,92693,Centre-Forward
+232,Alfred Finnbogason,alfred-finnbogason,90024,Centre-Forward
+233,Josip Ilicic,josip-ilicic,80351,Second Striker
+234,Salomón Rondón,salomon-rondon,80197,Centre-Forward
+235,Andrii Yarmolenko,andrii-yarmolenko,69015,Right Winger
+236,Andros Townsend,andros-townsend,61842,Right Winger
+237,Karim Bellarabi,karim-bellarabi,61087,Right Winger
+238,Iker Muniain,iker-muniain,54235,Left Winger
+239,Cenk Tosun,cenk-tosun,45671,Centre-Forward
+240,Carlos Vela,carlos-vela,35773,Right Winger
+241,Theo Walcott,theo-walcott,33713,Right Winger
+242,Raphinha,raphinha,411295,Right Winger
+243,Diego Lainez,diego-lainez,371174,Left Winger
+244,Reiss Nelson,reiss-nelson,340325,Right Winger
+245,Breel Embolo,breel-embolo,237662,Centre-Forward
+246,Samu Castillejo,samu-castillejo,195171,Right Winger
+247,Hulk,hulk,80562,Right Winger
+248,Edin Dzeko,edin-dzeko,28396,Centre-Forward
+249,Bukayo Saka,bukayo-saka,433177,Left Winger
+250,Victor Osimhen,victor-osimhen,401923,Centre-Forward
+251,Henry Onyekuru,henry-onyekuru,380415,Left Winger
+252,Robert Skov,robert-skov,270393,Right Winger
+253,Steven Berghuis,steven-berghuis,129554,Right Winger
+254,Iago Falque,iago-falque,59340,Right Winger
+255,Christian Benteke,christian-benteke,50201,Centre-Forward
+256,Cristian Pavón,cristian-pavon,373170,Right Winger
+257,Santos Borré,santos-borre,323831,Centre-Forward
+258,Andy Delort,andy-delort,122797,Centre-Forward
+259,Dimitri Payet,dimitri-payet,37647,Left Winger
+260,Adolfo Gaich,adolfo-gaich,608469,Centre-Forward
+261,Moussa Djenepo,moussa-djenepo,485424,Left Winger
+262,Emmanuel Dennis,emmanuel-dennis,448854,Centre-Forward
+263,Youssef En-Nesyri,youssef-en-nesyri,433049,Centre-Forward
+264,Calvin Stengs,calvin-stengs,409344,Right Winger
+265,Arnaut Danjuma,arnaut-danjuma,355861,Left Winger
+266,Che Adams,che-adams,346779,Centre-Forward
+267,Ollie Watkins,ollie-watkins,324358,Left Winger
+268,Marcus Thuram,marcus-thuram,318528,Centre-Forward
+269,Diego Rossi,diego-rossi,317454,Left Winger
+270,Javairô Dilrosun,javairo-dilrosun,315125,Left Winger
+271,Kelechi Iheanacho,kelechi-iheanacho,295330,Centre-Forward
+272,Lys Mousset,lys-mousset,291422,Centre-Forward
+273,Ihlas Bebou,ihlas-bebou,237164,Right Winger
+274,Roman Yaremchuk,roman-yaremchuk,221958,Centre-Forward
+275,Jeremie Boga,jeremie-boga,216569,Left Winger
+276,Dwight Gayle,dwight-gayle,196522,Centre-Forward
+277,Mbwana Samatta,mbwana-samatta,182201,Centre-Forward
+278,Hélder Costa,helder-costa,173900,Right Winger
+279,Ahmed Musa,ahmed-musa,168337,Left Winger
+280,Denis Suárez,denis-suarez,165007,Left Winger
+281,Grégoire Defrel,gregoire-defrel,163222,Centre-Forward
+282,M'Baye Niang,mbaye-niang,157501,Centre-Forward
+283,Andre Gray,andre-gray,120565,Centre-Forward
+284,Michael Gregoritsch,michael-gregoritsch,120205,Second Striker
+285,Manolo Gabbiadini,manolo-gabbiadini,112343,Centre-Forward
+286,Michail Antonio,michail-antonio,104124,Right Winger
+287,Tiquinho Soares,tiquinho-soares,103381,Centre-Forward
+288,Daniel Ginczek,daniel-ginczek,79501,Centre-Forward
+289,Taison,taison,76028,Left Winger
+290,Luuk de Jong,luuk-de-jong,72522,Centre-Forward
+291,André Schürrle,andre-schurrle,58205,Left Winger
+292,Chicharito,chicharito,50935,Centre-Forward
+293,Max Kruse,max-kruse,36182,Second Striker
+294,Marcos Paulo,marcos-paulo,612496,Centre-Forward
+295,Rémi Oudin,remi-oudin,399543,Right Winger
+296,Matías Vargas,matias-vargas,376211,Left Winger
+297,Wanderson,wanderson,236202,Right Winger
+298,Marlos,marlos,68778,Right Winger
+299,Fedor Smolov,fedor-smolov,50355,Centre-Forward
+300,Daniel Sturridge,daniel-sturridge,47082,Centre-Forward
+301,Agustín Urzi,agustin-urzi,636441,Left Winger
+302,Pedro De La Vega,pedro-de-la-vega,618984,Left Winger
+303,Ander Barrenetxea,ander-barrenetxea,616369,Left Winger
+304,Julián Álvarez,julian-alvarez,576024,Centre-Forward
+305,Sebastiano Esposito,sebastiano-esposito,538918,Centre-Forward
+306,Bryan Gil,bryan-gil,537382,Left Winger
+307,Willem Geubbels,willem-geubbels,463620,Left Winger
+308,Cucho Hernández,cucho-hernandez,459463,Centre-Forward
+309,Ezequiel Barco,ezequiel-barco,456623,Left Winger
+310,Oscar Melendo,oscar-melendo,448344,Right Winger
+311,Samuel Kalu,samuel-kalu,424051,Right Winger
+312,David Okereke,david-okereke,413605,Centre-Forward
+313,Takefusa Kubo,takefusa-kubo,405398,Right Winger
+314,Adam Ounas,adam-ounas,400485,Right Winger
+315,Ritsu Doan,ritsu-doan,358504,Right Winger
+316,Loren Morón,loren-moron,354741,Centre-Forward
+317,Yann Karamoh,yann-karamoh,324804,Right Winger
+318,Jarrod Bowen,jarrod-bowen,314875,Right Winger
+319,Yeferson Soteldo,yeferson-soteldo,312294,Left Winger
+320,Oliver McBurnie,oliver-mcburnie,298477,Centre-Forward
+321,Carles Pérez,carles-perez,282810,Right Winger
+322,Marco Richter,marco-richter,279009,Left Winger
+323,José Luis Morales,jose-luis-morales,252677,Centre-Forward
+324,Johannes Eggestein,johannes-eggestein,251303,Right Winger
+325,Oussama Idrissi,oussama-idrissi,241391,Left Winger
+326,Steve Mounié,steve-mounie,238639,Centre-Forward
+327,Trezeguet,trezeguet,234189,Left Winger
+328,Sofiane Boufal,sofiane-boufal,232271,Left Winger
+329,Jaime Mata,jaime-mata,227961,Centre-Forward
+330,Munir El Haddadi,munir-el-haddadi,223725,Centre-Forward
+331,Roger Martí,roger-marti,212391,Centre-Forward
+332,Josh Murphy,josh-murphy,199528,Left Winger
+333,Britt Assombalonga,britt-assombalonga,186172,Centre-Forward
+334,Anwar El Ghazi,anwar-el-ghazi,183720,Right Winger
+335,Gaëtan Laborde,gaetan-laborde,181378,Centre-Forward
+336,Jürgen Locadia,jurgen-locadia,166240,Centre-Forward
+337,Ivan Cavaleiro,ivan-cavaleiro,149716,Right Winger
+338,Vincent Aboubakar,vincent-aboubakar,147487,Centre-Forward
+339,Cristian Tello,cristian-tello,141834,Left Winger
+340,Lei Wu,lei-wu,140436,Left Winger
+341,Bruma,bruma,139396,Left Winger
+342,Benito Raman,benito-raman,112930,Left Winger
+343,Ricardo Goulart,ricardo-goulart,106076,Second Striker
+344,Portu,portu,99353,Right Winger
+345,Martin Braithwaite,martin-braithwaite,95732,Centre-Forward
+346,Johann Berg Gudmundsson,johann-berg-gudmundsson,89231,Right Winger
+347,Admir Mehmedi,admir-mehmedi,66058,Second Striker
+348,Leonardo Pavoletti,leonardo-pavoletti,64793,Centre-Forward
+349,Ashley Barnes,ashley-barnes,63200,Centre-Forward
+350,Victor Moses,victor-moses,59866,Right Winger
+351,Nacer Chadli,nacer-chadli,59631,Left Winger
+352,Bas Dost,bas-dost,56331,Centre-Forward
+353,Lars Stindl,lars-stindl,48298,Second Striker
+354,Teemu Pukki,teemu-pukki,46972,Centre-Forward
+355,Stevan Jovetic,stevan-jovetic,46104,Centre-Forward
+356,Mario Balotelli,mario-balotelli,45146,Centre-Forward
+357,Mario Mandzukic,mario-mandzukic,34572,Centre-Forward
+358,Eran Zahavi,eran-zahavi,85093,Second Striker
+359,Eddie Salcedo,eddie-salcedo,459661,Centre-Forward
+360,Rabbi Matondo,rabbi-matondo,404384,Right Winger
+361,Sam Lammers,sam-lammers,386914,Centre-Forward
+362,Roger Guedes,roger-guedes,348263,Right Winger
+363,Jonathan Calleri,jonathan-calleri,284727,Centre-Forward
+364,Ricardo Horta,ricardo-horta,261927,Left Winger
+365,Dawid Kownacki,dawid-kownacki,208167,Centre-Forward
+366,Djaniny,djaniny,197170,Centre-Forward
+367,Vincenzo Grifo,vincenzo-grifo,185077,Left Winger
+368,Gonçalo Paciência,goncalo-paciencia,181547,Centre-Forward
+369,Dyego Sousa,dyego-sousa,157036,Centre-Forward
+370,Zé Luís,ze-luis,134602,Centre-Forward
+371,Mark Uth,mark-uth,112935,Centre-Forward
+372,Simone Zaza,simone-zaza,96828,Centre-Forward
+373,Olivier Giroud,olivier-giroud,82442,Centre-Forward
+374,Danny Welbeck,danny-welbeck,67063,Centre-Forward
+375,Gervinho,gervinho,33481,Left Winger
+376,Kévin Gameiro,kevin-gameiro,27389,Centre-Forward
+377,Odion Ighalo,odion-ighalo,62121,Centre-Forward
+378,Nikola Kalinic,nikola-kalinic,36371,Centre-Forward
+379,Kaio Jorge,kaio-jorge,620477,Centre-Forward
+380,Nicólas González,nicolas-gonzalez,486031,Centre-Forward
+381,Léo Jabá,leo-jaba,468260,Right Winger
+382,Adama Diakhaby,adama-diakhaby,453594,Left Winger
+383,Myziane Maolida,myziane-maolida,371142,Centre-Forward
+384,Timothy Weah,timothy-weah,370846,Centre-Forward
+385,Alexander Isak,alexander-isak,349066,Centre-Forward
+386,Noah Okafor,noah-okafor,346890,Left Winger
+387,Eddie Nketiah,eddie-nketiah,340324,Centre-Forward
+388,Luan,luan,313106,Second Striker
+389,Saïd Benrahma,said-benrahma,290532,Right Winger
+390,Ignacio Pussetto,ignacio-pussetto,283528,Right Winger
+391,Bruno Petkovic,bruno-petkovic,256358,Centre-Forward
+392,Vedat Muriqi,vedat-muriqi,256267,Centre-Forward
+393,Pione Sisto,pione-sisto,252641,Left Winger
+394,Antonio Sanabria,antonio-sanabria,234523,Centre-Forward
+395,Omar Al-Somah,omar-al-somah,220688,Centre-Forward
+396,Alireza Jahanbakhsh,alireza-jahanbakhsh,213268,Right Winger
+397,Baghdad Bounedjah,baghdad-bounedjah,209992,Centre-Forward
+398,Vincent Janssen,vincent-janssen,207015,Centre-Forward
+399,Robin Quaison,robin-quaison,206542,Second Striker
+400,Flavien Tait,flavien-tait,202278,Left Winger
+401,Marius Wolf,marius-wolf,193900,Right Winger
+402,Stéphane Bahoken,stephane-bahoken,170953,Centre-Forward
+403,Tom Ince,tom-ince,157368,Right Winger
+404,Anthony Knockaert,anthony-knockaert,149237,Right Winger
+405,José Izquierdo,jose-izquierdo,147094,Left Winger
+406,Gianluca Caprari,gianluca-caprari,146752,Second Striker
+407,Juanmi,juanmi,126737,Right Winger
+408,Benik Afobe,benik-afobe,110858,Centre-Forward
+409,Jordan Ayew,jordan-ayew,108354,Centre-Forward
+410,Eduardo Salvio,eduardo-salvio,84535,Right Winger
+411,Niclas Füllkrug,niclas-fullkrug,75489,Centre-Forward
+412,Troy Deeney,troy-deeney,65477,Centre-Forward
+413,Sofiane Feghouli,sofiane-feghouli,57162,Right Winger
+414,Diego Perotti,diego-perotti,54984,Left Winger
+415,Nils Petersen,nils-petersen,42936,Centre-Forward
+416,Falcao,falcao,39152,Centre-Forward
+417,Max Gradel,max-gradel,28140,Left Winger
+418,Adam Hlozek,adam-hlozek,552057,Second Striker
+419,Hassane Bandé,hassane-bande,504259,Left Winger
+420,Karim Adeyemi,karim-adeyemi,496094,Centre-Forward
+421,Nahuel Bustos,nahuel-bustos,439629,Right Winger
+422,Andreas Skov Olsen,andreas-skov-olsen,432982,Right Winger
+423,Myron Boadu,myron-boadu,412932,Centre-Forward
+424,Alexis Claude-Maurice,alexis-claude-maurice,384593,Left Winger
+425,Odsonne Edouard,odsonne-edouard,344152,Centre-Forward
+426,Oliver Burke,oliver-burke,341317,Right Winger
+427,Alfredo Morelos,alfredo-morelos,338962,Centre-Forward
+428,Orbelín Pineda,orbelin-pineda,334042,Left Winger
+429,Javi Ontiveros,javi-ontiveros,298983,Left Winger
+430,Emiliano Rigoni,emiliano-rigoni,282544,Right Winger
+431,Roger Assalé,roger-assale,263183,Centre-Forward
+432,Jony,jony,228761,Left Winger
+433,Marko Pjaca,marko-pjaca,205940,Left Winger
+434,Guido Carrillo,guido-carrillo,184672,Centre-Forward
+435,Wesley Saïd,wesley-said,182916,Right Winger
+436,Garry Rodrigues,garry-rodrigues,170895,Left Winger
+437,Frank Acheampong,frank-acheampong,157160,Left Winger
+438,Nicolai Jörgensen,nicolai-jorgensen,100399,Centre-Forward
+439,Amin Younes,amin-younes,96167,Left Winger
+440,Nicola Sansone,nicola-sansone,82048,Left Winger
+441,Sergi Enrich,sergi-enrich,81988,Centre-Forward
+442,Gabriel Veron,gabriel-veron,627221,Right Winger
+443,Silas Wamangituka,silas-wamangituka,612826,Centre-Forward
+444,Sebastián Villa,sebastian-villa,493000,Right Winger
+445,Pedro Neto,pedro-neto,487465,Second Striker
+446,Luis Díaz,luis-diaz,480692,Left Winger
+447,Jan Hurtado,jan-hurtado,459115,Centre-Forward
+448,Luiz Araújo,luiz-araujo,435485,Left Winger
+449,Lebo Mothiba,lebo-mothiba,427161,Centre-Forward
+450,Pietro Pellegri,pietro-pellegri,364133,Centre-Forward
+451,Ruben Vargas,ruben-vargas,345886,Left Winger
+452,Tahith Chong,tahith-chong,344830,Right Winger
+453,Linton Maina,linton-maina,335103,Right Winger
+454,Isaac Mbenza,isaac-mbenza,260806,Right Winger
+455,Yoshinori Muto,yoshinori-muto,230541,Centre-Forward
+456,Matheus Pereira,matheus-pereira,225984,Right Winger
+457,Luciano Vietto,luciano-vietto,214316,Centre-Forward
+458,Siebe Schrijvers,siebe-schrijvers,208552,Second Striker
+459,Moussa Konaté,moussa-konate,192774,Centre-Forward
+460,Naïm Sliti,naim-sliti,184491,Left Winger
+461,Callum Robinson,callum-robinson,183299,Left Winger
+462,Kenneth Zohore,kenneth-zohore,135213,Centre-Forward
+463,Rogelio Funes Mori,rogelio-funes-mori,135082,Centre-Forward
+464,André Carrillo,andre-carrillo,135057,Right Winger
+465,Kevin Lasagna,kevin-lasagna,131951,Centre-Forward
+466,Rachid Ghezzal,rachid-ghezzal,118287,Right Winger
+467,Viktor Fischer,viktor-fischer,95755,Left Winger
+468,Francesco Caputo,francesco-caputo,84765,Centre-Forward
+469,Matt Phillips,matt-phillips,77274,Right Winger
+470,Valère Germain,valere-germain,60540,Centre-Forward
+471,Anthony Modeste,anthony-modeste,50512,Centre-Forward
+472,Konstantinos Mitroglou,konstantinos-mitroglou,34944,Centre-Forward
+473,Bruno Henrique,bruno-henrique,353108,Left Winger
+474,Shapi Suleymanov,shapi-suleymanov,335725,Right Winger
+475,Paul Onuachu,paul-onuachu,272855,Centre-Forward
+476,Jhon Córdoba,jhon-cordoba,185245,Centre-Forward
+477,Kemar Roofe,kemar-roofe,141350,Centre-Forward
+478,Raúl Ruidíaz,raul-ruidiaz,129724,Centre-Forward
+479,Khouma Babacar,khouma-babacar,124902,Centre-Forward
+480,Alan,alan,73460,Centre-Forward
+481,Yevhen Konoplianka,yevhen-konoplianka,58949,Left Winger
+482,Matías Pellegrini,matias-pellegrini,606267,Left Winger
+483,Jack Clarke,jack-clarke,559794,Left Winger
+484,Julián Carranza,julian-carranza,491707,Centre-Forward
+485,Jérémy Doku,jeremy-doku,486049,Left Winger
+486,Brian Rodríguez,brian-rodriguez,465818,Left Winger
+487,Jovane Cabral,jovane-cabral,448466,Right Winger
+488,Cody Gakpo,cody-gakpo,434675,Left Winger
+489,Trincão,trincao,412669,Right Winger
+490,Josh Sargent,josh-sargent,393325,Centre-Forward
+491,Lincoln,lincoln,372046,Centre-Forward
+492,Loïs Openda,lois-openda,368887,Centre-Forward
+493,Dusan Vlahovic,dusan-vlahovic,357498,Centre-Forward
+494,Jordan Siebatcheu,jordan-siebatcheu,355369,Centre-Forward
+495,Habib Diallo,habib-diallo,344888,Centre-Forward
+496,Álex Berenguer,alex-berenguer,338425,Left Winger
+497,Chiquinho,chiquinho,334557,Second Striker
+498,Nicolás Fernández,nicolas-fernandez,333921,Centre-Forward
+499,Sebastian Szymanski,sebastian-szymanski,320748,Right Winger
