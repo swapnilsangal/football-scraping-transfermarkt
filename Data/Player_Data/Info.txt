@@ -1,0 +1,2 @@
+# Here the .csv files created post Scraping are stored.
+This is the default path, it can be changed in the script.
