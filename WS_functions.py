@@ -64,7 +64,7 @@ def Get_Player_Club_Goal(name_tag,ID):
         for each_tr in each.find_all('tr'):
             if len(each_tr.find_all('td'))>1:
                 if len(each_tr.find_all('td'))==15:
-                    c_g_league=each_tr.find_all('td')[1].find('a').text
+                    c_g_league=each_tr.find_all('td')[1].find('a')['href'].split('/')[1]
                     c_g_date=datetime.strptime(each_tr.find_all('td')[3].text,'%m/%d/%y').date()
                     c_g_venue=each_tr.find_all('td')[4].text
                     c_g_for=each_tr.find_all('td')[5].find('img')['alt']
@@ -77,7 +77,7 @@ def Get_Player_Club_Goal(name_tag,ID):
                     c_g_assist=each_tr.find_all('td')[14].text
                     
                 elif len(each_tr.find_all('td'))==14:
-                    c_g_league=each_tr.find_all('td')[1].find('a').text
+                    c_g_league=each_tr.find_all('td')[1].find('a')['href'].split('/')[1]
                     c_g_date=datetime.strptime(each_tr.find_all('td')[3].text,'%m/%d/%y').date()
                     c_g_venue=each_tr.find_all('td')[4].text
                     c_g_for=each_tr.find_all('td')[5].find('img')['alt']
@@ -88,7 +88,7 @@ def Get_Player_Club_Goal(name_tag,ID):
                     c_g_score=each_tr.find_all('td')[11].text
                     c_g_type=each_tr.find_all('td')[12].text
                     c_g_assist=each_tr.find_all('td')[13].text
-                    
+                        
                 elif len(each_tr.find_all('td'))==5:
                     c_g_min=each_tr.find_all('td')[1].text
                     c_g_score=each_tr.find_all('td')[2].text
@@ -97,12 +97,13 @@ def Get_Player_Club_Goal(name_tag,ID):
                 
                 table_list.append([i,c_g_date,c_g_league,c_g_for,c_g_against,c_g_venue,c_g_mat_res,c_g_mat_pos,c_g_min,c_g_score,c_g_type,c_g_assist])
                 i=i+1
+    
     table_df = pd.DataFrame(table_list,columns=['Goal_No','Date','Competition','For','Against','Home_Away','Match_Result','Position','Time','Score_After_Goal','Goal_Type','Assist_Provider'])
     if os.path.isdir(root_dir+'Data/Player_Data/'+str(name_tag)+'/')==False:
         os.mkdir(root_dir+'Data/Player_Data/'+str(name_tag)+'/')
     table_df.to_csv(root_dir+'Data/Player_Data/'+str(name_tag)+'/'+str(name_tag)+'_club_goals.csv')
     return table_df
-
+    
 
 def Get_Player_Club_Stats(name_tag,ID):
     season = 2019
@@ -138,13 +139,13 @@ def Get_Player_Club_Stats(name_tag,ID):
                     match_assists = 0 if each_match.find_all('td')[9].text=='' else each_match.find_all('td')[9].text
                     match_own_goals = 0 if each_match.find_all('td')[10].text=='' else each_match.find_all('td')[9].text
                     minutes_played = each_match.find_all('td')[16].text
-                    all_season_matches.append([date,competition,home_team,away_team,match_score,match_result,match_position,match_goals,match_assists,match_own_goals,minutes_played])
-
-    all_season_matches_df = pd.DataFrame(all_season_matches,columns=['Date','Competition','Home_Team','Away_Team','Match_Score','Match_Result','Position','Goals','Assists','Own_Goals','Minutes_Played'])
+                    all_season_matches.append([date,competition,each_year,home_team,away_team,match_score,match_result,match_position,match_goals,match_assists,match_own_goals,minutes_played])
+    
+    all_season_matches_df = pd.DataFrame(all_season_matches,columns=['Date','Competition','Season','Home_Team','Away_Team','Match_Score','Match_Result','Position','Goals','Assists','Own_Goals','Minutes_Played'])
     if os.path.isdir(root_dir+'Data/Player_Data/'+str(name_tag)+'/')==False:
         os.mkdir(root_dir+'Data/Player_Data/'+str(name_tag)+'/')
     all_season_matches_df.to_csv(root_dir+'Data/Player_Data/'+str(name_tag)+'/'+str(name_tag)+'_match_statistics.csv')
-
+    
 
 
 
