@@ -12,7 +12,7 @@ import pandas as pd
 from unidecode import unidecode
 import os
 
-root_dir = '/home/swapnil/Study/Football/TM_Web_Scraping_Project/'
+root_dir = 'C:/Users/Shruti/Documents/TM_Web_Scraping_Project/'
 
 def generate_players_database():   
     all_player_base_url='https://www.transfermarkt.com/spieler-statistik/wertvollstespieler/marktwertetop/plus/0/galerie/0?ausrichtung=alle&spielerposition_id=alle&altersklasse=alle&jahrgang=0&land_id=0&kontinent_id=0&yt0=Show'
@@ -32,7 +32,7 @@ def generate_players_database():
             each_player_tag = each_player['href'].split('/')[1]
             all_players_details.append([each_player_name,each_player_tag,each_player_id,each_player_pos])
     all_players_df = pd.DataFrame(all_players_details,columns=['Name','Name_tag','ID','Position'])
-    all_players_df.to_csv(root_dir+'Data/Databases/all_players_db.csv')
+    all_players_df.to_csv(root_dir+'Data/Database/all_players_db.csv')
 
 def search_player(player_name):
     player_name = player_name.lower().replace(' ','-').replace("'","")
