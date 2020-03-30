@@ -99,9 +99,9 @@ def Get_Player_Club_Goal(name_tag,ID):
                 i=i+1
     
     table_df = pd.DataFrame(table_list,columns=['Goal_No','Date','Competition','For','Against','Home_Away','Match_Result','Position','Time','Score_After_Goal','Goal_Type','Assist_Provider'])
-    if os.path.isdir(root_dir+'Data/Player_Data/'+str(name_tag)+'/')==False:
-        os.mkdir(root_dir+'Data/Player_Data/'+str(name_tag)+'/')
-    table_df.to_csv(root_dir+'Data/Player_Data/'+str(name_tag)+'/'+str(name_tag)+'_club_goals.csv')
+    if os.path.isdir(root_dir+'Data/Player_Data/'+str(name_tag)+'-'+str(ID)+'/')==False:
+        os.mkdir(root_dir+'Data/Player_Data/'+str(name_tag)+'-'+str(ID)+'/')
+    table_df.to_csv(root_dir+'Data/Player_Data/'+str(name_tag)+'-'+str(ID)+'/'+str(name_tag)+'-'+str(ID)+'_club_goals.csv')
     return table_df
     
 
@@ -122,7 +122,9 @@ def Get_Player_Club_Stats(name_tag,ID):
         for i in range(1,len(all_tables)):
             all_matches = all_tables[i].find('tbody').find_all('tr')
             for each_match in all_matches:
-                if len(each_match.find_all('td'))==17:
+#                print(each_match.find_all('td')[0].find('a')['href'].split('/')[1])
+#                print(len(each_match.find_all('td')))
+                if len(each_match.find_all('td'))==17 or len(each_match.find_all('td'))==18:
                     competition = each_match.find_all('td')[0].find('a')['href'].split('/')[1]
                     date = datetime.strptime(each_match.find_all('td')[1].text,'%b %d, %Y').date()
                     home_team = each_match.find_all('td')[3].find('a').text
@@ -138,13 +140,16 @@ def Get_Player_Club_Stats(name_tag,ID):
                     match_goals = 0 if each_match.find_all('td')[8].text=='' else each_match.find_all('td')[8].text
                     match_assists = 0 if each_match.find_all('td')[9].text=='' else each_match.find_all('td')[9].text
                     match_own_goals = 0 if each_match.find_all('td')[10].text=='' else each_match.find_all('td')[9].text
-                    minutes_played = each_match.find_all('td')[16].text
+                    if len(each_match.find_all('td'))==17:
+                        minutes_played = each_match.find_all('td')[16].text
+                    elif len(each_match.find_all('td'))==18:
+                        minutes_played = each_match.find_all('td')[17].text
                     all_season_matches.append([date,competition,each_year,home_team,away_team,match_score,match_result,match_position,match_goals,match_assists,match_own_goals,minutes_played])
     
     all_season_matches_df = pd.DataFrame(all_season_matches,columns=['Date','Competition','Season','Home_Team','Away_Team','Match_Score','Match_Result','Position','Goals','Assists','Own_Goals','Minutes_Played'])
-    if os.path.isdir(root_dir+'Data/Player_Data/'+str(name_tag)+'/')==False:
-        os.mkdir(root_dir+'Data/Player_Data/'+str(name_tag)+'/')
-    all_season_matches_df.to_csv(root_dir+'Data/Player_Data/'+str(name_tag)+'/'+str(name_tag)+'_match_statistics.csv')
+    if os.path.isdir(root_dir+'Data/Player_Data/'+str(name_tag)+'-'+str(ID)+'/')==False:
+        os.mkdir(root_dir+'Data/Player_Data/'+str(name_tag)+'-'+str(ID)+'/')
+    all_season_matches_df.to_csv(root_dir+'Data/Player_Data/'+str(name_tag)+'-'+str(ID)+'/'+str(name_tag)+'-'+str(ID)+'_club_match_statistics.csv')
     
 
 
