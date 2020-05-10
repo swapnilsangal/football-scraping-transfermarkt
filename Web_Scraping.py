@@ -27,9 +27,7 @@ if type(res_returned)==type(pd.Series()):
     table_df = Get_Player_Club_Goal(name_tag,ID)
     all_season_matches=Get_Player_Club_Stats(name_tag,ID)
 else:
-    print('Run again!')       
-
-
+    print('Please Run again!')
 
 #%%
 '''
